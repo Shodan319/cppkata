@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+D:/ALL CODING PROGRAMS/ALL C++ Programs in VS Code/katas/build/unittests/googletest-download/CMakeFiles/googletest
+D:/ALL CODING PROGRAMS/ALL C++ Programs in VS Code/katas/build/unittests/googletest-download/CMakeFiles/googletest.rule
+D:/ALL CODING PROGRAMS/ALL C++ Programs in VS Code/katas/build/unittests/googletest-download/CMakeFiles/googletest-complete.rule
+D:/ALL CODING PROGRAMS/ALL C++ Programs in VS Code/katas/build/unittests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+D:/ALL CODING PROGRAMS/ALL C++ Programs in VS Code/katas/build/unittests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+D:/ALL CODING PROGRAMS/ALL C++ Programs in VS Code/katas/build/unittests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+D:/ALL CODING PROGRAMS/ALL C++ Programs in VS Code/katas/build/unittests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
+D:/ALL CODING PROGRAMS/ALL C++ Programs in VS Code/katas/build/unittests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+D:/ALL CODING PROGRAMS/ALL C++ Programs in VS Code/katas/build/unittests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+D:/ALL CODING PROGRAMS/ALL C++ Programs in VS Code/katas/build/unittests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+D:/ALL CODING PROGRAMS/ALL C++ Programs in VS Code/katas/build/unittests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule

@@ -1,0 +1,3 @@
+D:/ALL CODING PROGRAMS/ALL C++ Programs in VS Code/katas/build/unittests/googletest-download/CMakeFiles/googletest.dir
+D:/ALL CODING PROGRAMS/ALL C++ Programs in VS Code/katas/build/unittests/googletest-download/CMakeFiles/edit_cache.dir
+D:/ALL CODING PROGRAMS/ALL C++ Programs in VS Code/katas/build/unittests/googletest-download/CMakeFiles/rebuild_cache.dir

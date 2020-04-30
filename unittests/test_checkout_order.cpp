@@ -1,7 +1,9 @@
 #include <gtest/gtest.h>
-#include <library.h>
+#include <checkout_order.h>
 
 namespace
 {
-TEST(CheckoutOrderTest, Initialization) { EXPECT_STREQ("hello", hello()); }
+TEST(CheckoutOrderTest, Initialization) { 
+    EXPECT_STREQ("hello", hello()); }
 }
+
